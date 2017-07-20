@@ -446,7 +446,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #portfolio-work .block .portfolio-contant .overly .linkBtn2{
     width: 140px;
-    position:fixed;
+    position:absolute;
     left: 50%;
     margin-left: -70px;
     border: 1px solid #fff;
