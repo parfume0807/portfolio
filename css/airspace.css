@@ -6,9 +6,9 @@
  * 
  */
 
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-@import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+@import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
 
 /* var text-decoration */
 
@@ -442,6 +442,15 @@ font header .navbar-default .navbar-nav li a:hover {
     padding: 10px 30px;
     float: left;
     margin: 3px;
+}
+
+#portfolio-work .block .portfolio-contant .overly .linkBtn2{
+    width: 140px;
+    position:fixed;
+    left: 50%;
+    margin-left: -70px;
+    border: 1px solid #fff;
+    padding: 10px 0px;
 }
 
 #portfolio-work .block .mix {
